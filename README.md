@@ -4,7 +4,7 @@ Este repositorio contiene los ejercicios de HTML realizados en clase durante el 
 
 ## Estructura del Repositorio 📂
 
-- **`ejercicios_básicos`**: Carpeta que contiene ejercicios introductorios sobre etiquetas, atributos y estructuras básicas de HTML.
+- **`Ejercicios_básicos`**: Carpeta que contiene ejercicios introductorios sobre etiquetas, atributos y estructuras básicas de HTML.
 
 ## Cómo Usar 🛠️
 
