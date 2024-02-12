@@ -1,0 +1,16 @@
+body {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.ajuste1 {
+    margin-top: -5px;
+}
+
+table,
+tr,
+th,
+td {
+border: 1px solid black;
+text-align: left;
+}
